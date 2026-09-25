@@ -83,6 +83,7 @@ Hash extracted | Hash loaded into cracker:
 **Result:**
 <img width="1916" height="1075" alt="crack success" src="https://github.com/user-attachments/assets/78a3a657-7545-441f-8440-59577f6a17a3" />
 `password `password1
+
 **Flag captured:**
 <img width="933" height="1030" alt="image" src="https://github.com/user-attachments/assets/3dfc4a0b-947a-43f9-b408-3a25ff9803e9" />
 nw{networkwalks_flag1_jtr_270521_1}
