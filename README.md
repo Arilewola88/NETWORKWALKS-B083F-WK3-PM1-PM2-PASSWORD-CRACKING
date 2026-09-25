@@ -1,7 +1,13 @@
 # NETWORKWALKS-B083F-WK3-PM1-PM2-PASSWORD-CRACKING
 
 A hands-on internship project covering password recovery of a protected PDF file using two approaches: **John the Ripper (JTR)** software, and the **Networkwalks Hash Calculator & Password Cracker** 
-
+![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-JTR-blue)
+![Networkwalks](https://img.shields.io/badge/Networkwalks-Tools-informational)
+![Skill](https://img.shields.io/badge/Skill-Password%20Cracking-red)
+![Skill](https://img.shields.io/badge/Skill-Hash%20Extraction-red)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-orange)
+![Author](https://img.shields.io/badge/Author-Arilewola%20Abdulrokeeb-red)
 ---
 
 ## 📌 About This Project
